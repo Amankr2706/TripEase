@@ -48,9 +48,10 @@
 <img width="1569" height="862" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/a5fb15ee-d6f9-4eb1-87f3-f1da87ea6450" />
 
 ### **Login Page** :
+<img width="1601" height="863" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/e52135b9-a5cc-441a-9e5d-7493afea6237" />
 
 ### **Personalization Input** :
-<img width="1601" height="863" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/b3193363-19a6-4741-baa9-b020c8acdee6" />
+<img width="1576" height="859" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/e09a5ed8-c81d-49aa-900f-c37ccbed59a0" />
 
 ### **AI Itinerary Generation** :
 <img width="1749" height="858" alt="Screenshot (11)h" src="https://github.com/user-attachments/assets/b7b4a5f5-7d4d-4fa0-bb1d-a5f183a185f1" />
