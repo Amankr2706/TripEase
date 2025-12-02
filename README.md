@@ -44,6 +44,25 @@
 
 <br>
 
+### **Landing Page / Home Screen** :
+<img width="1569" height="862" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/a5fb15ee-d6f9-4eb1-87f3-f1da87ea6450" />
+
+### **Login Page** :
+
+### **Personalization Input** :
+<img width="1601" height="863" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/b3193363-19a6-4741-baa9-b020c8acdee6" />
+
+### **AI Itinerary Generation** :
+<img width="1749" height="858" alt="Screenshot (11)h" src="https://github.com/user-attachments/assets/b7b4a5f5-7d4d-4fa0-bb1d-a5f183a185f1" />
+
+### **Weather Forecast & Flight Search** :
+<img width="1729" height="717" alt="Screenshot (13)h" src="https://github.com/user-attachments/assets/bfd401e1-f6c4-4bfd-936a-3a0d01afcc45" />
+
+### **Detailed Itinerary & Cost Breakdown** :
+<img width="983" height="796" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/58ae00f5-4e09-4b94-bf86-cb609f575e74" />
+
+<br>
+
 <h2 id="pre">🗁 Prerequisites</h2>
 
 Before running the project, make sure you have:  
